@@ -28,7 +28,7 @@ gem 'spring',        group: :development
 gem 'sqlite3', group: [:development, :test]
 
 group :production do
-  gem 'pg'
+  gem 'pg', '< 1.0'
   gem 'rails_12factor'
 end
 
