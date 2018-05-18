@@ -1,1 +1,9 @@
-This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+First app from "The Complete Ruby on Rails Developer Course" by Mashrur Hossain.
+Alpha Blog is a simple app for creating articles. Users can sign up and post an article with title, body and categories.
+
+The main focus of this app is:
+- Build a custom authentication system from scratch;
+- Add styling using Bootstrap classes;
+- Build one-to-many and many-to-many associations;
+- Add profile images using gravatars;
+- Use pagination for listing views.
